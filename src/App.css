@@ -1,0 +1,23 @@
+[data-anime] {
+    opacity:0;
+    transition: 1500ms;
+}
+[data-anime="image"] {
+
+}
+[data-anime="left"] {
+    transform: translateX(-2000px);
+}
+[data-anime="right"] {
+    transform: translate3d(2000px, 0, 0);
+}
+
+[data-anime].animate {
+    opacity: 1;
+    transform: translateX(0px);
+}
+
+html, body, p {
+    overflow-x: hidden;
+    margin: 0;
+}

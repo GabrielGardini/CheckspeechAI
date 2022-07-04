@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/CheckspeechAI/static/css/main.72d4c757.css",
+    "main.js": "/CheckspeechAI/static/js/main.456de7d4.js",
+    "static/media/logoBranca.svg": "/CheckspeechAI/static/media/logoBranca.e4e8258f3a10755d9f38506dacd09d22.svg",
+    "static/media/logoAzul.svg": "/CheckspeechAI/static/media/logoAzul.eddade6a9ddb1f5367e8582fe7c59ea5.svg",
+    "static/media/Orbitc-Color.svg": "/CheckspeechAI/static/media/Orbitc-Color.a28bbada39309c56991d4b7598b3cc0b.svg",
+    "index.html": "/CheckspeechAI/index.html",
+    "main.72d4c757.css.map": "/CheckspeechAI/static/css/main.72d4c757.css.map",
+    "main.456de7d4.js.map": "/CheckspeechAI/static/js/main.456de7d4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.72d4c757.css",
+    "static/js/main.456de7d4.js"
+  ]
+}
